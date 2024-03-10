@@ -15,8 +15,6 @@ gh_sponsor: chrisrhymes
 #fixed_navbar: top
 #direction: one of <ltr, rtl, auto>, default: ltr
 
-theme: bulma-clean-theme
-
 # With GitHub Pages Gem
 remote_theme: chrisrhymes/bulma-clean-theme
 
